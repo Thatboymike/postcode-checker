@@ -1,0 +1,30 @@
+{
+  "2000": {
+    "regional": false,
+    "remote": false,
+    "northern": false,
+    "bushfire": false,
+    "flood": false
+  },
+  "3000": {
+    "regional": false,
+    "remote": false,
+    "northern": false,
+    "bushfire": false,
+    "flood": false
+  },
+  "4000": {
+    "regional": true,
+    "remote": false,
+    "northern": false,
+    "bushfire": true,
+    "flood": false
+  },
+  "5000": {
+    "regional": true,
+    "remote": true,
+    "northern": false,
+    "bushfire": false,
+    "flood": true
+  }
+}
